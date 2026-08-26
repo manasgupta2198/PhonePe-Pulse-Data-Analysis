@@ -1,12 +1,12 @@
-# 📱 PhonePe Digital Payments Case Study
+# 🐍 Python | PhonePe Digital Payments Case Study
 
 Python-based exploratory data analysis of the **PhonePe Pulse** dataset, covering transaction trends, transaction types, device usage, registered users, district demographics, data quality, and advanced analysis across India.
 
 ## 🎯 Project Objective
-Analyze PhonePe Pulse data to understand digital-payment adoption, transaction behavior, device usage, geographic patterns, and population-related trends.
+Analyze PhonePe Pulse data using **Python** to understand digital-payment adoption, transaction behavior, device usage, geographic patterns, and population-related trends.
 
 ## 🛠️ Tools & Technologies
-- Python
+- **Python**
 - Pandas
 - NumPy
 - Matplotlib
@@ -38,7 +38,6 @@ The notebook follows the complete case-study workflow:
 ```text
 PhonePe-Pulse-Data-Analysis/
 │
-├── phonepay_pulse_data_analysis.ipynb
 ├── phonepay_pulse_data_analysis_corrected.ipynb
 ├── phonepe-pulse_raw-data_q12018-to-q22021-v0-1-5-1720351752 (1).xlsx
 └── README.md
@@ -46,7 +45,7 @@ PhonePe-Pulse-Data-Analysis/
 
 ## ▶️ How to Run
 1. Clone or download the repository.
-2. Open the corrected notebook in Jupyter Notebook, JupyterLab, or Google Colab.
+2. Open `phonepay_pulse_data_analysis_corrected.ipynb` in Jupyter Notebook, JupyterLab, or Google Colab.
 3. Keep the Excel dataset in the working directory expected by the notebook.
 4. Run the notebook from top to bottom.
 5. Review the tables, visualizations, and business insights.
